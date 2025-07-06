@@ -43,12 +43,11 @@ This project presents a data analysis case for Kultra Mega Stores (KMS), a Lagos
   
 3. What were the total sales of appliances in Ontario?
    
- The total sales of apliances precisely within Ontario region sumed up to 3063223.000. 
+ -**Result:** The total sales of apliances precisely within Ontario region sumed up to 3063223.000. 
  
 4. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers 
 
-To increase the revenue from the bottom 10 customers, the company should: Reach  out to their customers  to understand their past experience, 
-or carry out a  Survey to Understand  customers needs and their level of satisfacton with their services. They sould Give discounts on their most viewed or purchased products, Upsell and Cross-sell Offers, Offer faster delivery, better after-sales support.
+ -**Insight:** To increase the revenue from the bottom 10 customers, the company should: Reach  out to their customers  to understand their past experience, or carry out a  Survey to Understand  customers needs and their level of satisfacton with their services. They sould Give discounts on their most viewed or purchased products, Upsell and Cross-sell Offers, Offer faster delivery, better after-sales support.
  
 8. KMS incurred the most shipping cost using which shipping method?
   
@@ -58,14 +57,37 @@ or carry out a  Survey to Understand  customers needs and their level of satisfa
 |-------------------|-----------------------------|
 | Delivery Truck    |51971.9397373199             |
 
+- **Insight** The analysis shows that "Delivery Truck" is the shipping method with the highest total incurred cost for KMS, amounting to ₦51,971.94. Management should investigate the factors contributing to this high cost, such as fuel efficiency, route optimization, maintenance, or labor costs associated with truck deliveries, to identify potential areas for cost reduction.
 
-Case Scenario II 
+ - ### Case Scenario 2
+   
 6. Who are the most valuable customers, and what products or services do they typically 
-purchase? 
-7. Which small business customer had the highest sales? 
-8. Which Corporate Customer placed the most number of orders in 2009 – 2012? 
-9. Which consumer customer was the most profitable one? 
-10. Which customer returned items, and what segment do they belong to? 
-11. If the delivery truck is the most economical but the slowest shipping method and 
-Express Air is the fastest but the most expensive one, do you think the company 
-appropriately spent shipping costs based on the Order Priority? Explain your answer
+purchase?
+
+  -**Insights:** To identify the most valuable customers, we focused on those with the highest total sales. We analyzed their purchasing patterns and The most valuable customers for Kultra Mega Stores are Emily Phan, Deborah Brumfield, Roy Skaria, Sylvia Foulston, and Grant Carroll, based on their significant total sales contributions.
+
+8. Which small business customer had the highest sales?
+
+  -**Insight/Interpretation:** Dennis Kane is identified as the small business customer with the highest sales, contributing ₦75,967.59 to KMS revenue. This customer is a key asset within the small business segment and offering personalized bulk discounts, or explore opportunities for upselling/cross-selling to further solidify this valuable relationship.
+
+8. Which Corporate Customer placed the most number of orders in 2009 – 2012?
+
+  - **Insight/Interpretation:** Adam Hart is identified as the Corporate Customer who placed the highest number of orders (27) between 2009 and 2012. This indicates Adam Hart is a highly engaged and consistent corporate client for KMS
+   
+9. Which consumer customer was the most profitable one?
+
+  -**Insight/Interpretation:** Emily Phan emerges as the most profitable consumer customer for KMS, generating a total profit of ₦34,005.44.
+  
+10. Which customer returned items, and what segment do they belong to?
+
+ -**Insight/Interpretation:** A substantial number of customers, totaling 419 individuals, have returned items to KMS. These returns are not isolated to a single customer segment but are observed across Home Office, Corporate, Small Business, and Consumer segments.
+
+ 
+11.  If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer.
+
+ -**Insight** Based on the analysis, The current spending pattern indicates a potential disconnect between stated order priority and the chosen shipping method. KMS might be sacrificing delivery speed for urgent orders to save on per-shipment costs, which could negatively impact customer satisfaction for critical deliveries.
+
+Management should:
+
+  -Review Shipping Policies
+  -Optimize Delivery Truck Use
