@@ -19,7 +19,7 @@ This project presents a data analysis case for Kultra Mega Stores (KMS), a Lagos
 
 - **Inerpretation:** "The results revealed that Technology is the top-performing product category, generating a significant total revenue of ₦5,984,261.18."
 
-3. What are the Top 3 and Bottom 3 regions in terms of sales?
+2. What are the Top 3 and Bottom 3 regions in terms of sales?
 
  - **top3 regions in terms of sales**
 
@@ -41,19 +41,31 @@ This project presents a data analysis case for Kultra Mega Stores (KMS), a Lagos
 
   **Nunavut, Northwest Teritories and Yukon** on the other hand with lower sales could be as  result of either lower population ensity, specific logistic or economic challenges.
   
-5. What were the total sales of appliances in Ontario?
+3. What were the total sales of appliances in Ontario?
    
  The total sales of apliances precisely within Ontario region sumed up to 3063223.000. 
  
-7. Advise the management of KMS on what to do to increase the revenue from the bottom 
-10 customers 
+4. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers 
+
+To increase the revenue from the bottom 10 customers, the company should: Reach  out to their customers  to understand their past experience, 
+or carry out a  Survey to Understand  customers needs and their level of satisfacton with their services. They sould Give discounts on their most viewed or purchased products, Upsell and Cross-sell Offers, Offer faster delivery, better after-sales support.
+ 
 8. KMS incurred the most shipping cost using which shipping method?
   
+-**Result**
 
-| Customer Name     | Total Revenue |
-|-------------------|---------------|
-| Adebayo & Sons    | ₦1,200,000    |
-| OfficeHub Abuja   | ₦950,000      |
-| Harmony Concepts  | ₦740,000      |
-| Beta Enterprises  | ₦680,000      |
-| QuickSupplies Ltd | ₦645,000      |
+| Ship_mode         | Total_shipping_cost_incurred|
+|-------------------|-----------------------------|
+| Delivery Truck    |51971.9397373199             |
+
+
+Case Scenario II 
+6. Who are the most valuable customers, and what products or services do they typically 
+purchase? 
+7. Which small business customer had the highest sales? 
+8. Which Corporate Customer placed the most number of orders in 2009 – 2012? 
+9. Which consumer customer was the most profitable one? 
+10. Which customer returned items, and what segment do they belong to? 
+11. If the delivery truck is the most economical but the slowest shipping method and 
+Express Air is the fastest but the most expensive one, do you think the company 
+appropriately spent shipping costs based on the Order Priority? Explain your answer
